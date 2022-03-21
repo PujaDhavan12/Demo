@@ -1,0 +1,236 @@
+
+y
+java:S1104"WMake saveMessage a static final constant or non-public and provide accessors if needed.(¿€üşøÿÿÿÿ8öàƒ£»/
+
+java:S1104"dMake teacherExpressAssessment a static final constant or non-public and provide accessors if needed.(é†Ö¿8»ûêÃø/
+P
+java:S1659"3Declare "campusAPlusAssessment" on a separate line.(ãÜ¯8œåÜ¾·/
+m
+java:S1104"PMake year a static final constant or non-public and provide accessors if needed.(é†Ö¿8¡Ã¨Âø/
+S
+java:S1659"1Declare "assessmentTypeAPlus" on a separate line.(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+
+java:S1104"_Make assessmentTypeAPlus a static final constant or non-public and provide accessors if needed.(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+W
+java:S1659"5Declare "campusExpressAssessment" on a separate line.(¿€üşøÿÿÿÿ8ñ¸ìÃø/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÏªÓ¬
+€
+java:S1104"^Make districtReportName a static final constant or non-public and provide accessors if needed.(¿€üşøÿÿÿÿ8®ÏõÅ¾/
+A
+java:S1659"$Declare "roster" on a separate line.(é†Ö¿8¡Ã¨Âø/
+X
+java:S1444"6Make this "public static assessmentTypeIB" field final(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+Q
+java:S1659"4Declare "networkAPlusAssessment" on a separate line.(Øé¡8Ö—”Á/
+S
+java:S2696z"6Make the enclosing method "static" or remove this set.(©’ú×8¡Ã¨Âø/
+…
+java:S1104"cMake campusExpressAssessment a static final constant or non-public and provide accessors if needed.(¿€üşøÿÿÿÿ8ñ¸ìÃø/
+J
+java:S1659"(Declare "cpsSubject" on a separate line.(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+
+java:S1104"dMake networkExpressAssessment a static final constant or non-public and provide accessors if needed.(Øé¡8¼ŞìÃø/
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(†÷‘øÿÿÿÿ
+S
+java:S2696t"6Make the enclosing method "static" or remove this set.(ş³‡“8¡Ã¨Âø/
+y
+java:S1104"\Make editReportHeader a static final constant or non-public and provide accessors if needed.(é†Ö¿8¡Ã¨Âø/
+V
+java:S1444"4Make this "public static sdhcRosterName" field final(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+K
+java:S1659".Declare "copiedReportName" on a separate line.(Øé¡8˜³–³Â/
+M
+java:S1659"+Declare "deleteMessage" on a separate line.(¿€üşøÿÿÿÿ8öàƒ£»/
+‚
+java:S1104"eMake districtExpressAssessment a static final constant or non-public and provide accessors if needed.(ãÜ¯8¾çëÃø/
+€
+java:S1104"cMake districtAPlusAssessment a static final constant or non-public and provide accessors if needed.(ãÜ¯8ƒ“‹Óº/
+X
+java:S2696~"6Make the enclosing method "static" or remove this set.(æß«Éÿÿÿÿÿ8¡Ã¨Âø/
+X
+java:S2696|"6Make the enclosing method "static" or remove this set.(ˆˆ®¤şÿÿÿÿ8¡Ã¨Âø/
+M
+java:S1444"+Make this "public static grade" field final(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+S
+java:S1659"6Declare "teacherExpressAssessment" on a separate line.(é†Ö¿8»ûêÃø/
+q
+java:S1104"TMake userName a static final constant or non-public and provide accessors if needed.(é†Ö¿8¡Ã¨Âø/
+†
+java:S3008"dRename this field "assessment_WorkSpace_Type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+S
+java:S1444"1Make this "public static sdhcSubject" field final(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†÷‘øÿÿÿÿ
+y
+java:S1104"WMake hisdSubject a static final constant or non-public and provide accessors if needed.(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+|
+java:S1104"ZMake sdhcRosterName a static final constant or non-public and provide accessors if needed.(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+T
+java:S1659"2Declare "keyCheckBoxSelection" on a separate line.(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+
+java:S1104"]Make assessmentTypeAKO a static final constant or non-public and provide accessors if needed.(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+o
+java:S1104"RMake roster a static final constant or non-public and provide accessors if needed.(é†Ö¿8¡Ã¨Âø/
+y
+java:S1104"\Make copiedReportName a static final constant or non-public and provide accessors if needed.(Øé¡8å›¼ÁÊ/
+X
+java:S2696r"6Make the enclosing method "static" or remove this set.(ŸĞ»Ùûÿÿÿÿ8¡Ã¨Âø/
+z
+java:S1104"]Make networkReportName a static final constant or non-public and provide accessors if needed.(Øé¡8Ö—”Á/
+s	java:S116"RRename this field "CSVPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯á•ÿÿÿÿÿ8¡Ã¨Âø/
+R
+java:S1444"0Make this "public static cpsSubject" field final(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+H
+java:S1659"+Declare "renameMessage" on a separate line.(ãÜ¯8éÁ¿·/
+~
+java:S1104"aMake campusAPlusAssessment a static final constant or non-public and provide accessors if needed.(ãÜ¯8¦ÓŠÓº/
+x
+java:S1104"VMake cpsSubject a static final constant or non-public and provide accessors if needed.(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+H
+java:S1659"+Declare "copiedMessage" on a separate line.(é†Ö¿8¡Ã¨Âø/
+
+java:S1104"bMake teacherAPlusAssessment a static final constant or non-public and provide accessors if needed.(é†Ö¿8¡Ã¨Âø/
+Œ
+java:S1104"jMake alertMessageToSelectAssessment a static final constant or non-public and provide accessors if needed.(¿€üşøÿÿÿÿ8šìì¾·/
+Y
+java:S1444"7Make this "public static assessmentTypeAKO" field final(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+p
+java:S1104"SMake subject a static final constant or non-public and provide accessors if needed.(é†Ö¿8¡Ã¨Âø/
+y
+java:S1104"\Make campusReportName a static final constant or non-public and provide accessors if needed.(Øé¡8Ö—”Á/
+S
+java:S2696k"6Make the enclosing method "static" or remove this set.(¥­‹Ú8¡Ã¨Âø/
+B
+java:S1659"%Declare "subject" on a separate line.(é†Ö¿8¡Ã¨Âø/
+S
+java:S2696h"6Make the enclosing method "static" or remove this set.(¹·ùù8¡Ã¨Âø/
+|
+java:S1104"ZMake gradeSelection a static final constant or non-public and provide accessors if needed.(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+Y
+java:S1659"7Declare "assessment_WorkSpace_Type" on a separate line.(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+P
+java:S1659"3Declare "districtAKOAssessment" on a separate line.(é†Ö¿8¡Ã¨Âø/
+}
+java:S1104"`Make teacherAKOAssessment a static final constant or non-public and provide accessors if needed.(é†Ö¿8¡Ã¨Âø/
+}
+java:S1104"`Make networkAKOAssessment a static final constant or non-public and provide accessors if needed.(Øé¡8Ö—”Á/
+^
+java:S1659"<Declare "alertMessageToSelectAssessment" on a separate line.(¿€üşøÿÿÿÿ8¼ò¾·/
+R
+java:S1659"5Declare "createGroupAlertMessage" on a separate line.(Øé¡8¤çêÁÊ/
+N
+java:S1659",Declare "gradeSelection" on a separate line.(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+X
+java:S2696v"6Make the enclosing method "static" or remove this set.(Ê›¸ùıÿÿÿÿ8¡Ã¨Âø/
+J
+java:S1659"-Declare "validReportName" on a separate line.(ãÜ¯8¦ÓŠÓº/
+R
+java:S1659"5Declare "districtAPlusAssessment" on a separate line.(ãÜ¯8öàƒ£»/
+{
+java:S1104"YMake deleteMessage a static final constant or non-public and provide accessors if needed.(¿€üşøÿÿÿÿ8ÂÚú¾·/
+y
+java:S1104"WMake sdhcSubject a static final constant or non-public and provide accessors if needed.(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+N
+java:S1659"1Declare "campusAKOAssessment" on a separate line.(é†Ö¿8¡Ã¨Âø/
+
+java:S1104"bMake networkAPlusAssessment a static final constant or non-public and provide accessors if needed.(Øé¡8˜³–³Â/
+N
+java:S1659",Declare "generalSubject" on a separate line.(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+P
+java:S1659".Declare "assessmentTypeIB" on a separate line.(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+O
+java:S1659"2Declare "networkAKOAssessment" on a separate line.(Øé¡8å›¼ÁÊ/
+‚
+java:S1104"`Make keyCheckBoxSelection a static final constant or non-public and provide accessors if needed.(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+
+java:S1104"kMake alertMessageForAdvanceSelection a static final constant or non-public and provide accessors if needed.(¿€üşøÿÿÿÿ8àÔ””Á/
+€
+java:S1104"cMake createGroupAlertMessage a static final constant or non-public and provide accessors if needed.(Øé¡8å¨ÂÊ/
+[
+java:S1444"9Make this "public static assessmentTypeAPlus" field final(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+S
+java:S2696j"6Make the enclosing method "static" or remove this set.(şÆÒâ8¡Ã¨Âø/
+C
+java:S1659"&Declare "userName" on a separate line.(é†Ö¿8¡Ã¨Âø/
+_
+java:S1659"=Declare "alertMessageForAdvanceSelection" on a separate line.(¿€üşøÿÿÿÿ8šìì¾·/
+L
+java:S1659"/Declare "networkReportName" on a separate line.(Øé¡8å¨ÂÊ/
+S
+java:S2696p"6Make the enclosing method "static" or remove this set.(Ëô•è8¡Ã¨Âø/
+V
+java:S1444"4Make this "public static generalSubject" field final(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+v
+java:S1104"YMake historyHeader a static final constant or non-public and provide accessors if needed.(é†Ö¿8¡Ã¨Âø/
+z
+java:S1104"]Make renamedReportName a static final constant or non-public and provide accessors if needed.(Øé¡8ä¾ºÁÊ/
+\
+java:S2147„"ECombine this catch with the one at line 130, which has the same body.(ï­£Ä
+|
+java:S1104"ZMake generalSubject a static final constant or non-public and provide accessors if needed.(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+K
+java:S1659".Declare "editReportHeader" on a separate line.(é†Ö¿8¡Ã¨Âø/
+O
+java:S1659"2Declare "teacherAKOAssessment" on a separate line.(é†Ö¿8¡Ã¨Âø/
+K
+java:S1659")Declare "sdhcSubject" on a separate line.(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+E
+java:S1659"#Declare "grade" on a separate line.(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+p
+java:S1104"SMake tagName a static final constant or non-public and provide accessors if needed.(é†Ö¿8¡Ã¨Âø/
+N
+java:S1659",Declare "sdhcRosterName" on a separate line.(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+T
+java:S1659"7Declare "districtExpressAssessment" on a separate line.(ãÜ¯8¾çëÃø/
+S
+java:S1659"6Declare "networkExpressAssessment" on a separate line.(Øé¡8¼ŞìÃø/
+~
+java:S1104"\Make assessmentTypeIB a static final constant or non-public and provide accessors if needed.(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+L
+java:S1659"/Declare "teacherReportName" on a separate line.(Øé¡8Ö—”Á/
+S
+java:S1444"1Make this "public static hisdSubject" field final(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+a
+java:S1444"?Make this "public static assessment_WorkSpace_Type" field final(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+R
+java:S1659"0Declare "customReportHeader" on a separate line.(¿€üşøÿÿÿÿ8®ÏõÅ¾/
+€
+java:S1104"^Make customReportHeader a static final constant or non-public and provide accessors if needed.(¿€üşøÿÿÿÿ8ñ Ü¾·/
+x
+java:S1104"[Make validReportName a static final constant or non-public and provide accessors if needed.(ãÜ¯8éÁ¿·/
+?
+java:S1659""Declare "year" on a separate line.(é†Ö¿8¡Ã¨Âø/
+z
+java:S1104"]Make teacherReportName a static final constant or non-public and provide accessors if needed.(Øé¡8¤çêÁÊ/
+\
+java:S1444":Make this "public static keyCheckBoxSelection" field final(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+S
+java:S2696x"6Make the enclosing method "static" or remove this set.(Ä•†ù8¡Ã¨Âø/
+s
+java:S1104"QMake grade a static final constant or non-public and provide accessors if needed.(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+B
+java:S1659"%Declare "tagName" on a separate line.(é†Ö¿8¡Ã¨Âø/
+~
+java:S1104"aMake districtAKOAssessment a static final constant or non-public and provide accessors if needed.(é†Ö¿8¡Ã¨Âø/
+Q
+java:S1659"4Declare "teacherAPlusAssessment" on a separate line.(é†Ö¿8¡Ã¨Âø/
+L
+java:S1659"/Declare "renamedReportName" on a separate line.(Øé¡8Ö—”Á/
+|
+java:S1104"_Make selectOptionMessage a static final constant or non-public and provide accessors if needed.(ãÜ¯8®Îû¾·/
+v
+java:S1104"YMake renameMessage a static final constant or non-public and provide accessors if needed.(ãÜ¯8öàƒ£»/
+K
+java:S1659")Declare "saveMessage" on a separate line.(¿€üşøÿÿÿÿ8ñ Ü¾·/
+Q
+java:S1659"/Declare "assessmentTypeAKO" on a separate line.(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+X
+java:S2696i"6Make the enclosing method "static" or remove this set.(ùø°„üÿÿÿÿ8¡Ã¨Âø/
+‡
+java:S1104"eMake assessment_WorkSpace_Type a static final constant or non-public and provide accessors if needed.(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+V
+java:S1444"4Make this "public static gradeSelection" field final(Œ°õÏøÿÿÿÿ8¡Ã¨Âø/
+v
+java:S1104"YMake copiedMessage a static final constant or non-public and provide accessors if needed.(é†Ö¿8¡Ã¨Âø/
+|
+java:S1104"_Make campusAKOAssessment a static final constant or non-public and provide accessors if needed.(é†Ö¿8¡Ã¨Âø/

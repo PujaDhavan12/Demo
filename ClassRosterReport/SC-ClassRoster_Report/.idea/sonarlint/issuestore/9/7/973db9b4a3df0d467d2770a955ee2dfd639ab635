@@ -1,0 +1,17 @@
+
+r
+java:S1104"WMake passedCount a static final constant or non-public and provide accessors if needed.(ô¡øÿÿÿÿ
+r
+java:S1104"WMake failedCount a static final constant or non-public and provide accessors if needed.(ÜÌÜŠúÿÿÿÿ
+L
+java:S1444"1Make this "public static failedCount" field final(ÜÌÜŠúÿÿÿÿ
+E
+java:S1444"/Make this "public static dependant" field final(á ú
+H
+java:S1444"2Make this "public static skippedCount" field final(ò†ü“
+n
+java:S1104"XMake skippedCount a static final constant or non-public and provide accessors if needed.(ò†ü“
+L
+java:S1444"1Make this "public static passedCount" field final(ô¡øÿÿÿÿ
+k
+java:S1104"UMake dependant a static final constant or non-public and provide accessors if needed.(á ú

@@ -1,0 +1,43 @@
+
+b
+java:S2095("LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(•Çİ
+b
+java:S2095)"GUse try-with-resources or close this "CSVWriter" in a "finally" clause.(Äˆ“Šûÿÿÿÿ
+g
+java:S2095="LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(»¾Æ›øÿÿÿÿ
+]
+java:S2095>"GUse try-with-resources or close this "CSVReader" in a "finally" clause.(­™¾×
+g
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(»¾Æ›øÿÿÿÿ
+]
+java:S2095"GUse try-with-resources or close this "CSVReader" in a "finally" clause.(­™¾×
+J
+java:S1444"4Make this "public static assessmentName" field final(ÂŸåÛ
+E
+java:S1444"/Make this "public static userLevel" field final(÷ğ
+k
+java:S1192k"UDefine a constant instead of duplicating this literal " Type of assessment." 4 times.(ï³ÛÒ
+c
+java:S1192`"HDefine a constant instead of duplicating this literal "Express" 4 times.(ñÖŸ·ıÿÿÿÿ
+†
+java:S1192k"pDefine a constant instead of duplicating this literal "Header doesn't match with any input values for " 4 times.(ï³ÛÒ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Öëÿÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Öëÿÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅíÇÿ
+k	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü®‘™úÿÿÿÿ
+f	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅíÇÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÏªÓ¬
+p
+java:S1104"ZMake assessmentName a static final constant or non-public and provide accessors if needed.(ÂŸåÛ
+k
+java:S1104"UMake userLevel a static final constant or non-public and provide accessors if needed.(÷ğ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(—¿æÃüÿÿÿÿ
+h
+java:S3776Q"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(âñ¶
+N	java:S106k"9Replace this use of System.out or System.err by a logger.(ï³ÛÒ
+S	java:S106y"9Replace this use of System.out or System.err by a logger.(‘å™çüÿÿÿÿ
+n
+java:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Èƒç¶ıÿÿÿÿ
+O	java:S106œ"9Replace this use of System.out or System.err by a logger.(ï³ÛÒ
+T	java:S106ª"9Replace this use of System.out or System.err by a logger.(‘å™çüÿÿÿÿ

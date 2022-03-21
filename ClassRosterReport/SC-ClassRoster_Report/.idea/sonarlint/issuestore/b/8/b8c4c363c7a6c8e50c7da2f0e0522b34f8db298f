@@ -1,0 +1,171 @@
+
+O	java:S106"9Replace this use of System.out or System.err by a logger.(›ĞÀÑ
+l
+java:S11041"VMake staticpage a static final constant or non-public and provide accessors if needed.(’ÆêÙ
+M
+java:S1481"1Remove this unused "dropdownText" local variable.(˜á«ùÿÿÿÿ
+l	java:S117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷å”Ïùÿÿÿÿ
+b
+java:S2184¬"FCast one of the operands of this multiplication operation to a "long".(½ß“šûÿÿÿÿ
+]
+java:S2142­"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+B
+java:S10687"'Remove this unused "log" private field.(Ú‡˜‘ùÿÿÿÿ
+g	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§”¸
+R	java:S107¥"<Method has 8 parameters, which is greater than 7 authorized.(äŸ–½
+k
+java:S3252="UUse static access with "io.github.bonigarcia.wdm.WebDriverManager" for "getInstance".(¥áúù
+a
+java:S1192ø"JDefine a constant instead of duplicating this literal " element." 3 times.(Àæ¿
+O	java:S106†"9Replace this use of System.out or System.err by a logger.(ëÓí
+l	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ìÊùÿÿÿÿ
+S
+java:S2589Ø"7Remove this expression which always evaluates to "true"(ÖåÄşÿÿÿÿ
+r
+java:S1192•"VDefine a constant instead of duplicating this literal "arguments[0].click();" 3 times.(ïµ¾¯ûÿÿÿÿ
+<
+java:S24401"&Remove this instantiation of "Static".(’ÆêÙ
+g	java:S117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¹š
+b
+java:S2142ˆ"FEither re-interrupt this method or rethrow the "InterruptedException".(øôÔ×ûÿÿÿÿ
+T	java:S106‹"9Replace this use of System.out or System.err by a logger.(ºµÖßÿÿÿÿÿ
+R	java:S125æ"<This block of commented-out lines of code should be removed.(ùğúÌ
+R	java:S125™"<This block of commented-out lines of code should be removed.(†šíÁ
+W	java:S125À"<This block of commented-out lines of code should be removed.(ù¹Şøÿÿÿÿ
+g	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æû„
+l	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸‹†úÿÿÿÿ
+b
+java:S2142÷"FEither re-interrupt this method or rethrow the "InterruptedException".(øôÔ×ûÿÿÿÿ
+=
+java:S2440k"'Remove this instantiation of "Dynamic".(óæŒ«
+W	java:S125¸"<This block of commented-out lines of code should be removed.(¸Õßıÿÿÿÿ
+2
+java:S3626ƒ"Remove this redundant jump.(ÉŠ©ƒ
+T
+java:S2589›"8Remove this expression which always evaluates to "false"(š†–¬üÿÿÿÿ
+T
+java:S2589­"8Remove this expression which always evaluates to "false"(š†–¬üÿÿÿÿ
+O	java:S106¬"9Replace this use of System.out or System.err by a logger.(’ÇÕÏ
+M
+java:S1172¦"1Remove this unused method parameter "exitButton".(°­âÀúÿÿÿÿ
+B
+java:S14442",Make this "public static secure" field final(úñß¦
+\
+java:S1854"@Remove this useless assignment to local variable "dropdownText".(˜á«ùÿÿÿÿ
+N	java:S106Ô"9Replace this use of System.out or System.err by a logger.(õŒæ"
+]
+java:S1126¿"AReplace this if-then-else statement by a single return statement.(¬–¾ûÿÿÿÿÿ
+W	java:S125½"<This block of commented-out lines of code should be removed.(ÓãÏıÿÿÿÿ
+R	java:S125¨"<This block of commented-out lines of code should be removed.(ŸÛ¾ê
+]
+java:S1126Ì"AReplace this if-then-else statement by a single return statement.(ò”Ãÿÿÿÿÿ
+a
+java:S2147ù"ECombine this catch with the one at line 503, which has the same body.(Ğ¤ñúÿÿÿÿ
+b
+java:S2142ş"FEither re-interrupt this method or rethrow the "InterruptedException".(øôÔ×ûÿÿÿÿ
+{
+java:S1488‘"_Immediately return this expression instead of assigning it to the temporary variable "element".( ÒĞ‰ıÿÿÿÿ
+W
+java:S1854¡";Remove this useless assignment to local variable "isExist".(Š”¹‡üÿÿÿÿ
+O	java:S106ã"9Replace this use of System.out or System.err by a logger.(çƒ€
+v
+java:S1192ø"_Define a constant instead of duplicating this literal " Unable to find the specified " 3 times.(Àæ¿
+R	java:S125‚"<This block of commented-out lines of code should be removed.(Û†
+2
+java:S3626©"Remove this redundant jump.(ÉŠ©ƒ
+N	java:S106ä"9Replace this use of System.out or System.err by a logger.(×³¨r
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(ÁÛ€Ÿøÿÿÿÿ
+H
+java:S1481š",Remove this unused "isExist" local variable.(¤öù£şÿÿÿÿ
+?
+java:S1481"(Remove this unused "msg" local variable.(â…–æ
+W	java:S125ü"<This block of commented-out lines of code should be removed.(×ßîıÿÿÿÿ
+W	java:S125×"<This block of commented-out lines of code should be removed.(Ã—´Ğûÿÿÿÿ
+N	java:S106¡"9Replace this use of System.out or System.err by a logger.(ØŞ‘
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶÷Àd
+x
+java:S1488Ì"\Immediately return this expression instead of assigning it to the temporary variable "text".(ÆŠ±÷ûÿÿÿÿ
+r
+java:S1488Ñ"\Immediately return this expression instead of assigning it to the temporary variable "text".(ñ˜€
+L
+java:S2209³"5Change this instance-reference to a static reference.(¯±ºİ
+F
+java:S14441"0Make this "public static staticpage" field final(’ÆêÙ
+O	java:S106µ"9Replace this use of System.out or System.err by a logger.(ğÖ
+O	java:S106ì"9Replace this use of System.out or System.err by a logger.(µŒƒ®
+}
+java:S1192û"aDefine a constant instead of duplicating this literal "return document.getElementById('" 3 times.(÷å”Ïùÿÿÿÿ
+W	java:S125´"<This block of commented-out lines of code should be removed.(â”È—şÿÿÿÿ
+=
+java:S1604a"(Make this anonymous inner class a lambda(õÄ¦S
+O	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(³æşè
+W	java:S125—"<This block of commented-out lines of code should be removed.(¡›ûıÿÿÿÿ
+D
+java:S1172¼"-Remove this unused method parameter "driver".(ÔŸÁÙ
+O	java:S106Ï"9Replace this use of System.out or System.err by a logger.(¬µ É
+O	java:S106£"9Replace this use of System.out or System.err by a logger.(œü
+B
+java:S24400"'Remove this instantiation of "Dynamic".(Ïò‰±ÿÿÿÿÿ
+n
+java:S11040"SMake dynamic a static final constant or non-public and provide accessors if needed.(Ïò‰±ÿÿÿÿÿ
+W	java:S107€"<Method has 8 parameters, which is greater than 7 authorized.(é¶òÎüÿÿÿÿ
+O	java:S106È"9Replace this use of System.out or System.err by a logger.(€Î•á
+T	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(Ò­ñÕûÿÿÿÿ
+Q	java:S125X"<This block of commented-out lines of code should be removed.(ªÍ¾Ê
+O	java:S106‰"9Replace this use of System.out or System.err by a logger.(³æşè
+g	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÎÑ¬
+T
+java:S2589‡"8Remove this expression which always evaluates to "false"(š†–¬üÿÿÿÿ
+W	java:S125Å"<This block of commented-out lines of code should be removed.(äŒÉ®şÿÿÿÿ
+h
+java:S11042"RMake secure a static final constant or non-public and provide accessors if needed.(úñß¦
+<
+java:S24402"&Remove this instantiation of "Secure".(úñß¦
+W	java:S125ú"<This block of commented-out lines of code should be removed.(ß±®ıúÿÿÿÿ
+R	java:S107É"<Method has 9 parameters, which is greater than 7 authorized.(öÁŒŒ
+O	java:S106¹"9Replace this use of System.out or System.err by a logger.(•µ—¨
+l	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïñ¢Úùÿÿÿÿ
+J
+java:S1874×".Remove this use of "filter"; it is deprecated.(Ôô‰şÿÿÿÿ
+]
+java:S1075ò"ARefactor your code to get this URI from a customizable parameter.(Äı±ûÿÿÿÿ
+R	java:S125£"<This block of commented-out lines of code should be removed.(œÑ„»
+W	java:S125¿"<This block of commented-out lines of code should be removed.(Ã—´Ğûÿÿÿÿ
+N	java:S106º"9Replace this use of System.out or System.err by a logger.(ëŸ—4
+R	java:S107³"<Method has 8 parameters, which is greater than 7 authorized.(Ô¥ï†
+H
+java:S14440"-Make this "public static dynamic" field final(Ïò‰±ÿÿÿÿÿ
+P
+java:S2209l"5Change this instance-reference to a static reference.(ñô­ôùÿÿÿÿ
+\
+java:S2147û"ECombine this catch with the one at line 503, which has the same body.(”ı¾
+•
+java:S1130İ"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÃëÇÆøÿÿÿÿ
+O	java:S106¾"9Replace this use of System.out or System.err by a logger.(”“î€
+O	java:S106»"9Replace this use of System.out or System.err by a logger.(’à­
+2
+java:S3626—"Remove this redundant jump.(ÉŠ©ƒ
+x
+java:S1192Ä"\Define a constant instead of duplicating this literal "//div[@id='divPageLoading']" 3 times.(¢ï¡Éüÿÿÿÿ
+N
+java:S1854"7Remove this useless assignment to local variable "msg".(â…–æ
+l	java:S117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çĞ…şÿÿÿÿ
+R	java:S125Ğ"<This block of commented-out lines of code should be removed.(µ€è›
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÜÆ³…ıÿÿÿÿ
+W	java:S125ø"<This block of commented-out lines of code should be removed.(ìçÙ©şÿÿÿÿ
+R	java:S125¨"<This block of commented-out lines of code should be removed.(ûÁÃ
+l	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…€Ôûüÿÿÿÿ
+R	java:S125Ê"<This block of commented-out lines of code should be removed.(Ê¹ËŠ
+W	java:S125İ"<This block of commented-out lines of code should be removed.(äŒÉ®şÿÿÿÿ
+Q	java:S125°"<This block of commented-out lines of code should be removed.(ş¡¬|
+l	java:S117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çĞ…şÿÿÿÿ
+T	java:S106¢"9Replace this use of System.out or System.err by a logger.(·÷ù‘ûÿÿÿÿ
+O	java:S106œ"9Replace this use of System.out or System.err by a logger.(öÌ»
+{
+java:S1488Œ"_Immediately return this expression instead of assigning it to the temporary variable "element".(ŠŞÌµÿÿÿÿÿ
+Q	java:S125ß"<This block of commented-out lines of code should be removed.(Êê÷@
+B
+java:S5960È"+Remove this assertion from production code.(Õ¦Ñ
+W	java:S125¶"<This block of commented-out lines of code should be removed.(İÛû•ûÿÿÿÿ
+]
+java:S1192¡"FDefine a constant instead of duplicating this literal "class" 3 times.(¬ì½÷

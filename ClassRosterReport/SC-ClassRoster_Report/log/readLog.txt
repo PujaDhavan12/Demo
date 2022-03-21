@@ -1,0 +1,18 @@
+==================================================
+Host Name            : PUN-1PQD3J3
+User Name            : Puja.Dhavan
+Product Name         : HISD
+Product Version      : 8.2.0.0
+Date                 : 2022-03-20
+Project Name         : SC-ClassRoster_Report
+Site Name            : https://staffqa.schoolcity.com/hisdqa/sc/hisdqa
+User Level           : district
+Total TestCases      : 4
+Executed TestCases   : 4(100.00%)
+Passed TestCases     : 4(100.00%)
+Failed TestCases     : 0(0.00%)
+Skipped TestCases    : 0(0.00%)
+Execution Start Time : 15:55:28
+Execution End Time   : 15:56:13
+Execution time       : 00 : 00 : 46
+==================================================

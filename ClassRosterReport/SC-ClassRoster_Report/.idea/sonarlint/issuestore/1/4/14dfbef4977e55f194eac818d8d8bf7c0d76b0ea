@@ -1,0 +1,39 @@
+
+G
+java:S1659"%Declare "subject" on a separate line.(ó‹ßÑøÿÿÿÿ8ÖþºÂø/
+K
+java:S1444"0Make this "public static copyOption" field final(ó‹ßÑøÿÿÿÿ
+E
+java:S1444"*Make this "public static view" field final(ñ‚¨Œûÿÿÿÿ
+K
+java:S1444"0Make this "public static viewColumn" field final(ó‹ßÑøÿÿÿÿ
+q
+java:S1104"VMake viewColumn a static final constant or non-public and provide accessors if needed.(ó‹ßÑøÿÿÿÿ
+q
+java:S1104"VMake copyOption a static final constant or non-public and provide accessors if needed.(ó‹ßÑøÿÿÿÿ
+q
+java:S1104"VMake reportName a static final constant or non-public and provide accessors if needed.(ó‹ßÑøÿÿÿÿ
+q
+java:S1104"VMake viewOption a static final constant or non-public and provide accessors if needed.(ó‹ßÑøÿÿÿÿ
+I
+java:S1444".Make this "public static dropdown" field final(ó‹ßÑøÿÿÿÿ
+O
+java:S1444"-Make this "public static subject" field final(ó‹ßÑøÿÿÿÿ8ÖþºÂø/
+u
+java:S1104"SMake subject a static final constant or non-public and provide accessors if needed.(ó‹ßÑøÿÿÿÿ8ÖþºÂø/
+k
+java:S1104"PMake view a static final constant or non-public and provide accessors if needed.(ñ‚¨Œûÿÿÿÿ
+A
+java:S1659"&Declare "dropdown" on a separate line.(ó‹ßÑøÿÿÿÿ
+C
+java:S1659"(Declare "viewOption" on a separate line.(ó‹ßÑøÿÿÿÿ
+C
+java:S1659"(Declare "copyOption" on a separate line.(ó‹ßÑøÿÿÿÿ
+C
+java:S1659"(Declare "viewColumn" on a separate line.(ó‹ßÑøÿÿÿÿ
+K
+java:S1444"0Make this "public static viewOption" field final(ó‹ßÑøÿÿÿÿ
+K
+java:S1444"0Make this "public static reportName" field final(ó‹ßÑøÿÿÿÿ
+o
+java:S1104"TMake dropdown a static final constant or non-public and provide accessors if needed.(ó‹ßÑøÿÿÿÿ

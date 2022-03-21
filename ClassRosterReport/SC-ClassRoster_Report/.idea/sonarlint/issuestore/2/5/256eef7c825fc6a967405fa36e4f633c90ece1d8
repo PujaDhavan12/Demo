@@ -1,0 +1,77 @@
+
+u
+java:S1104"SMake subject a static final constant or non-public and provide accessors if needed.(ÕÌÊçøÿÿÿÿ8úÅ¨Âø/
+…
+java:S1104"cMake hisdAssessmentNameAplus a static final constant or non-public and provide accessors if needed.(ÕÌÊçøÿÿÿÿ8úÅ¨Âø/
+}
+java:S1104"[Make createNewButton a static final constant or non-public and provide accessors if needed.(ìóÍïşÿÿÿÿ8ê¶Îº¸/
+\
+java:S1444":Make this "public static hisdAssessmentNameIB" field final(ÕÌÊçøÿÿÿÿ8úÅ¨Âø/
+X
+java:S1444"6Make this "public static advanceSelection" field final(ìóÍïşÿÿÿÿ8½²²™Ó/
+O
+java:S1444"-Make this "public static subject" field final(ÕÌÊçøÿÿÿÿ8úÅ¨Âø/
+†
+java:S1104"dMake assessmentNameBeforeDrag a static final constant or non-public and provide accessors if needed.(ÕÌÊçøÿÿÿÿ8úÅ¨Âø/
+T
+java:S1659"2Declare "hisdAssessmentNameIB" on a separate line.(ÕÌÊçøÿÿÿÿ8úÅ¨Âø/
+V
+java:S1659"4Declare "customReportBackButton" on a separate line.(ìóÍïşÿÿÿÿ8½²²™Ó/
+O
+java:S1659"-Declare "createNewButton" on a separate line.(ìóÍïşÿÿÿÿ8ÏŒÃÿ¹/
+]
+java:S1444";Make this "public static countAfterDeSelection" field final(ßÀ‘õıÿÿÿÿ8úÅ¨Âø/
+_
+java:S1444"=Make this "public static hisdAssessmentNameAplus" field final(ÕÌÊçøÿÿÿÿ8úÅ¨Âø/
+~
+java:S1104"\Make deSelectionValue a static final constant or non-public and provide accessors if needed.(ì”ê¼ÿÿÿÿÿ8 ”Ş¡¼/
+ƒ
+java:S1104"aMake countAfterDeSelection a static final constant or non-public and provide accessors if needed.(ßÀ‘õıÿÿÿÿ8úÅ¨Âø/
+P
+java:S1659".Declare "deSelectionValue" on a separate line.(ì”ê¼ÿÿÿÿÿ8 ”Ş¡¼/
+W
+java:S1444"5Make this "public static createNewButton" field final(ìóÍïşÿÿÿÿ8½²²™Ó/
+U
+java:S1659"3Declare "hisdAssessmentNameAko" on a separate line.(ÕÌÊçøÿÿÿÿ8úÅ¨Âø/
+P
+java:S1659".Declare "advanceSelection" on a separate line.(ìóÍïşÿÿÿÿ8½²²™Ó/
+W
+java:S1659"5Declare "assessmentNameAfterDrag" on a separate line.(ßÀ‘õıÿÿÿÿ8úÅ¨Âø/
+„
+java:S1104"bMake customReportBackButton a static final constant or non-public and provide accessors if needed.(ìóÍïşÿÿÿÿ8½²²™Ó/
+^
+java:S1444"<Make this "public static customReportBackButton" field final(ìóÍïşÿÿÿÿ8ÏŒÃÿ¹/
+V
+java:S1444"4Make this "public static selectionValue" field final(ì”ê¼ÿÿÿÿÿ8 ”Ş¡¼/
+X
+java:S1444"6Make this "public static deSelectionValue" field final(ì”ê¼ÿÿÿÿÿ8ùİ¡¼/
+‚
+java:S1104"`Make hisdAssessmentNameIB a static final constant or non-public and provide accessors if needed.(ÕÌÊçøÿÿÿÿ8úÅ¨Âø/
+|
+java:S1104"ZMake selectionValue a static final constant or non-public and provide accessors if needed.(ì”ê¼ÿÿÿÿÿ8ùİ¡¼/
+G
+java:S1659"%Declare "subject" on a separate line.(ÕÌÊçøÿÿÿÿ8úÅ¨Âø/
+ƒ
+java:S1104"aMake hisdAssessmentNameAko a static final constant or non-public and provide accessors if needed.(ÕÌÊçøÿÿÿÿ8úÅ¨Âø/
+
+java:S1104"_Make countAfterSelection a static final constant or non-public and provide accessors if needed.(ßÀ‘õıÿÿÿÿ8úÅ¨Âø/
+[
+java:S1444"9Make this "public static countAfterSelection" field final(ßÀ‘õıÿÿÿÿ8úÅ¨Âø/
+z
+java:S1104"XMake customReport a static final constant or non-public and provide accessors if needed.(ìóÍïşÿÿÿÿ8ÏŒÃÿ¹/
+_
+java:S1444"=Make this "public static assessmentNameAfterDrag" field final(ßÀ‘õıÿÿÿÿ8úÅ¨Âø/
+U
+java:S1659"3Declare "countAfterDeSelection" on a separate line.(ßÀ‘õıÿÿÿÿ8úÅ¨Âø/
+W
+java:S1659"5Declare "hisdAssessmentNameAplus" on a separate line.(ÕÌÊçøÿÿÿÿ8úÅ¨Âø/
+`
+java:S1444">Make this "public static assessmentNameBeforeDrag" field final(ÕÌÊçøÿÿÿÿ8úÅ¨Âø/
+T
+java:S1444"2Make this "public static customReport" field final(ìóÍïşÿÿÿÿ8ê¶Îº¸/
+]
+java:S1444";Make this "public static hisdAssessmentNameAko" field final(ÕÌÊçøÿÿÿÿ8úÅ¨Âø/
+~
+java:S1104"\Make advanceSelection a static final constant or non-public and provide accessors if needed.(ìóÍïşÿÿÿÿ8½²²™Ó/
+…
+java:S1104"cMake assessmentNameAfterDrag a static final constant or non-public and provide accessors if needed.(ßÀ‘õıÿÿÿÿ8úÅ¨Âø/

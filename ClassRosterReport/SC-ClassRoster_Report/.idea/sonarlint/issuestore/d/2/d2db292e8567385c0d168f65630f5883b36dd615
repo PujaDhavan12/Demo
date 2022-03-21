@@ -1,0 +1,35 @@
+
+K
+java:S1444"0Make this "public static reportName" field final(­Ì»úÿÿÿÿ
+c
+java:S11920"HDefine a constant instead of duplicating this literal "teacher" 3 times.(çœ·Àûÿÿÿÿ
+q
+java:S1104"VMake reportName a static final constant or non-public and provide accessors if needed.(­Ì»úÿÿÿÿ
+j
+java:S1104"OMake tag a static final constant or non-public and provide accessors if needed.(­Ì»úÿÿÿÿ
+A
+java:S1659"&Declare "viewIcon" on a separate line.(­Ì»úÿÿÿÿ
+C
+java:S1659"(Declare "editHeader" on a separate line.(­Ì»úÿÿÿÿ
+L
+java:S2696""6Make the enclosing method "static" or remove this set.(ÑÜÿ
+R
+java:S2696"6Make the enclosing method "static" or remove this set.(¡ŒŞüıÿÿÿÿ
+q
+java:S1104"VMake editHeader a static final constant or non-public and provide accessors if needed.(­Ì»úÿÿÿÿ
+D
+java:S1444")Make this "public static tag" field final(­Ì»úÿÿÿÿ
+o
+java:S1104"TMake viewIcon a static final constant or non-public and provide accessors if needed.(­Ì»úÿÿÿÿ
+R
+java:S2696Ù"6Make the enclosing method "static" or remove this set.(ÅµÓíÿÿÿÿÿ
+M
+java:S2696Š"6Make the enclosing method "static" or remove this set.(üÑêÓ
+d
+java:S1192,"IDefine a constant instead of duplicating this literal "district" 3 times.(±£õüúÿÿÿÿ
+<
+java:S1659"!Declare "tag" on a separate line.(­Ì»úÿÿÿÿ
+K
+java:S1444"0Make this "public static editHeader" field final(­Ì»úÿÿÿÿ
+I
+java:S1444".Make this "public static viewIcon" field final(­Ì»úÿÿÿÿ

@@ -1,0 +1,93 @@
+
+€
+java:S1450%"cRemove the "successCount_Percent" field and declare it as a local variable in the relevant methods.(¦èÛí8ÑÑî™Ó/
+|
+java:S3008&"_Rename this field "failureCount_Percent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢åŞÏ8ÑÑî™Ó/
+z
+java:S3008$"]Rename this field "executedTC_Percent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û€‘ë8ÑÑî™Ó/
+O	java:S106±"9Replace this use of System.out or System.err by a logger.(Ã å£
+u	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(÷“ĞP8ÑÑî™Ó/
+€
+java:S1450'"cRemove the "skippedCount_Percent" field and declare it as a local variable in the relevant methods.(§‹‡ª8ÑÑî™Ó/
+S
+java:S1444"1Make this "public static projectName" field final(–›„ûÿÿÿÿ8ÑÑî™Ó/
+z
+java:S1450"XRemove the "outputLog" field and declare it as a local variable in the relevant methods.(éÒå¸şÿÿÿÿ8ÑÑî™Ó/
+F
+java:S1068")Remove this unused "input" private field.(‡‹Ûš8«¦„ôÛ/
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(İ ·ş8ÑÑî™Ó/
+
+java:S1450!"bRemove the "successCountPercent" field and declare it as a local variable in the relevant methods.(ñÁÇû8ÑÑî™Ó/
+e
+java:S1192/"HDefine a constant instead of duplicating this literal "Windows" 3 times.(€Ä¡Ô8«¦„ôÛ/
+y
+java:S1104"\Make executionEndTime a static final constant or non-public and provide accessors if needed.(‰ÿØé8ÑÑî™Ó/
+W
+java:S1118":Add a private constructor to hide the implicit public one.(óÃ³©8ÑÑî™Ó/
+U
+java:S1444"8Make this "public static executionStartTime" field final(•ªŸ¨8ÑÑî™Ó/
+[	java:S106­"9Replace this use of System.out or System.err by a logger.(¾¾÷»ùÿÿÿÿ8ÑÑî™Ó/
+N	java:S106²"9Replace this use of System.out or System.err by a logger.(™Ã”'
+}
+java:S1450 "`Remove the "executedTCPercent" field and declare it as a local variable in the relevant methods.(Ó„ı¦8ÑÑî™Ó/
+„
+java:S1450#"bRemove the "skippedCountPercent" field and declare it as a local variable in the relevant methods.(ûİÌÿÿÿÿÿ8ÑÑî™Ó/
+y
+java:S1104"WMake projectName a static final constant or non-public and provide accessors if needed.(–›„ûÿÿÿÿ8ÑÑî™Ó/
+|
+java:S3008'"_Rename this field "skippedCount_Percent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§‹‡ª8ÑÑî™Ó/
+[	java:S106§"9Replace this use of System.out or System.err by a logger.(ˆê·¸şÿÿÿÿ8ÑÑî™Ó/
+e
+java:S1192-"HDefine a constant instead of duplicating this literal "os.name" 3 times.(ş¹ïá8«¦„ôÛ/
+O	java:S106¯"9Replace this use of System.out or System.err by a logger.(¸Ù¨é
+O
+java:S1444"3Make this "public static executionTime" field final(Õ£ùS8ÑÑî™Ó/
+V	java:S106©"9Replace this use of System.out or System.err by a logger.(äÁ¸«8ÑÑî™Ó/
+T	java:S106´"9Replace this use of System.out or System.err by a logger.(¿³¥şÿÿÿÿ
+T	java:S106£"9Replace this use of System.out or System.err by a logger.(¿³¥şÿÿÿÿ
+[	java:S106¨"9Replace this use of System.out or System.err by a logger.(å„ëúÿÿÿÿ8ÑÑî™Ó/
+[	java:S106¦"9Replace this use of System.out or System.err by a logger.(ßÒ›…ıÿÿÿÿ8ÑÑî™Ó/
+S
+java:S1444"6Make this "public static executionEndTime" field final(‰ÿØé8ÑÑî™Ó/
+k
+java:S11920"IDefine a constant instead of duplicating this literal "user.dir" 6 times.(ÊÊÆıÿÿÿÿ8«¦„ôÛ/
+c
+java:S2184u"ACast one of the operands of this addition operation to a "float".(üşè›ùÿÿÿÿ8ÑÑî™Ó/
+[	java:S106®"9Replace this use of System.out or System.err by a logger.(ŸŒü†ıÿÿÿÿ8ÑÑî™Ó/
+u
+java:S1104"YMake executionTime a static final constant or non-public and provide accessors if needed.(Õ£ùS8ÑÑî™Ó/
+€
+java:S1450&"cRemove the "failureCount_Percent" field and declare it as a local variable in the relevant methods.(¢åŞÏ8ÑÑî™Ó/
+x
+java:S1104"VMake executedTC a static final constant or non-public and provide accessors if needed.(÷‚ËŒúÿÿÿÿ8ÑÑî™Ó/
+O	java:S106°"9Replace this use of System.out or System.err by a logger.(—åô
+p
+java:S1104"SMake totalTC a static final constant or non-public and provide accessors if needed.(ã›‰‹8ÑÑî™Ó/
+J
+java:S1444"-Make this "public static totalTC" field final(ã›‰‹8ÑÑî™Ó/
+I
+java:S1905›"&Remove this unnecessary cast to "int".(š¥á«üÿÿÿÿ8ÑÑî™Ó/
+T	java:S106³"9Replace this use of System.out or System.err by a logger.(„˜Éùÿÿÿÿ
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(¿æ¥®ùÿÿÿÿ8ÑÑî™Ó/
+{
+java:S1104"^Make executionStartTime a static final constant or non-public and provide accessors if needed.(•ªŸ¨8ÑÑî™Ó/
+I
+java:S1068"'Remove this unused "dir" private field.(ú”Ã¿ùÿÿÿÿ8«¦„ôÛ/
+=
+java:S1905°"&Remove this unnecessary cast to "int".(—åô
+a
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(÷“ĞP8ÑÑî™Ó/
+[	java:S106ª"9Replace this use of System.out or System.err by a logger.(î¶²¹øÿÿÿÿ8ÑÑî™Ó/
+R
+java:S1444"0Make this "public static executedTC" field final(÷‚ËŒúÿÿÿÿ8ÑÑî™Ó/
+|
+java:S3008%"_Rename this field "successCount_Percent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦èÛí8ÑÑî™Ó/
+V	java:S106«"9Replace this use of System.out or System.err by a logger.(—‹Ú¿8ÑÑî™Ó/
+„
+java:S1450""bRemove the "failureCountPercent" field and declare it as a local variable in the relevant methods.(‹¶ÁÜùÿÿÿÿ8ÑÑî™Ó/
+~
+java:S1450$"aRemove the "executedTC_Percent" field and declare it as a local variable in the relevant methods.(û€‘ë8ÑÑî™Ó/
+[	java:S106¬"9Replace this use of System.out or System.err by a logger.(©ÒÃÖøÿÿÿÿ8ÑÑî™Ó/
+U	java:S106h"9Replace this use of System.out or System.err by a logger.(¬òğ¬8ÑÑî™Ó/
+[	java:S106¤"9Replace this use of System.out or System.err by a logger.(ƒğ¥®ÿÿÿÿÿ8„Æ¨Âø/
+[	java:S106¥"9Replace this use of System.out or System.err by a logger.(İå÷ˆıÿÿÿÿ8„Æ¨Âø/

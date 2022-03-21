@@ -1,0 +1,212 @@
+[INFO] Scanning for projects...
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.graphwalker.example:SC-SUITE_Login:jar:3.4.2
+[WARNING] 'dependencies.dependency.(groupId:artifactId:type:classifier)' must be unique: junit:junit:jar -> duplicate declaration of version 4.12 @ line 86, column 21
+[WARNING] 'dependencies.dependency.(groupId:artifactId:type:classifier)' must be unique: com.opencsv:opencsv:jar -> version 3.3 vs 4.5 @ line 109, column 21
+[WARNING] 'dependencies.dependency.(groupId:artifactId:type:classifier)' must be unique: org.apache.commons:commons-csv:jar -> duplicate declaration of version 1.4 @ line 119, column 21
+[WARNING] 'dependencies.dependency.(groupId:artifactId:type:classifier)' must be unique: net.sourceforge.javacsv:javacsv:jar -> duplicate declaration of version 2.0 @ line 126, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ line 151, column 21
+[WARNING] 
+[WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+[WARNING] 
+[WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+[WARNING] 
+[INFO] 
+[INFO] ---------------< org.graphwalker.example:SC-SUITE_Login >---------------
+[INFO] Building SC-SUITE_Login 3.4.2
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] >>> graphwalker-maven-plugin:3.4.2:test (default-cli) > [graphwalker]test-compile @ SC-SUITE_Login >>>
+[INFO] 
+[INFO] --- graphwalker-maven-plugin:3.4.2:generate-sources (generate-sources) @ SC-SUITE_Login ---
+[INFO] 
+[INFO] --- graphwalker-maven-plugin:3.4.2:validate-models (default-cli) @ SC-SUITE_Login ---
+[INFO] 
+[INFO] --- graphwalker-maven-plugin:3.4.2:generate-sources (default-cli) @ SC-SUITE_Login ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ SC-SUITE_Login ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ SC-SUITE_Login ---
+[INFO] Changes detected - recompiling the module!
+[WARNING] File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+[INFO] Compiling 18 source files to C:\SANJAY\MBT\Docker\MBT_SUITE\LOGIN\SC-SUITE_Login\target\classes
+[WARNING] /C:/SANJAY/MBT/Docker/MBT_SUITE/LOGIN/SC-SUITE_Login/src/main/java/Helpers/DriverHelper.java: Some input files use or override a deprecated API.
+[WARNING] /C:/SANJAY/MBT/Docker/MBT_SUITE/LOGIN/SC-SUITE_Login/src/main/java/Helpers/DriverHelper.java: Recompile with -Xlint:deprecation for details.
+[INFO] 
+[INFO] --- graphwalker-maven-plugin:3.4.2:validate-test-models (default-cli) @ SC-SUITE_Login ---
+[INFO] 
+[INFO] --- graphwalker-maven-plugin:3.4.2:generate-test-sources (default-cli) @ SC-SUITE_Login ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ SC-SUITE_Login ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\SANJAY\MBT\Docker\MBT_SUITE\LOGIN\SC-SUITE_Login\src\test\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ SC-SUITE_Login ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] <<< graphwalker-maven-plugin:3.4.2:test (default-cli) < [graphwalker]test-compile @ SC-SUITE_Login <<<
+[INFO] 
+[INFO] 
+[INFO] --- graphwalker-maven-plugin:3.4.2:test (default-cli) @ SC-SUITE_Login ---
+[INFO] ------------------------------------------------------------------------
+[INFO]   _____             _   _ _ _     _ _                                   
+[INFO]  |   __|___ ___ ___| |_| | | |___| | |_ ___ ___                         
+[INFO]  |  |  |  _| .'| . |   | | | | .'| | '_| -_|  _|                        
+[INFO]  |_____|_| |__,|  _|_|_|_____|__,|_|_,_|___|_|                          
+[INFO]                |_|         (3.4.2)                            
+[INFO] ------------------------------------------------------------------------
+[INFO] Configuration:
+[INFO]     Include = [*]
+[INFO]     Exclude = []
+[INFO]      Groups = [*]
+[INFO] 
+[INFO] Tests:
+[INFO]     LoginTest(RandomPath, VertexCoverage, 100)
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[MBT-DEBUGGER] deletePath ==>C:\SANJAY\MBT\Docker\MBT_SUITE\LOGIN\SC-SUITE_Login\log
+17:45:00.817 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome=89 (valid until 2021-04-06 13:40:33)
+17:45:00.822 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Removing preference chrome89=89.0.4389.23 (expired on 2021-04-05 15:18:38)
+17:45:00.823 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Getting driver version for chrome89 from online versions.properties
+17:45:01.904 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 89.0.4389.23 (since Google Chrome 89 is installed in your machine)
+17:45:01.914 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Storing preference chrome89=89.0.4389.23 (valid until 2021-04-06 17:45:01)
+17:45:01.915 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Driver chromedriver 89.0.4389.23 found in cache
+17:45:01.916 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Sanjay.Patel\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+SC-SUITE_LoginTest Started By : Sanjay.Patel
+PLEASE DO NOT RUN UNTIL THE TEST IS FINISHED
+17:45:01.921 [main] DEBUG o.g.core.machine.SimpleMachine - Context: org.graphwalker.LoginTest@3a44411d
+17:45:01.922 [main] DEBUG o.g.core.machine.ExecutionContext - Execute e_StartBrowser
+17:45:01.948 [main] DEBUG o.g.core.machine.SimpleMachine - Context: org.graphwalker.LoginTest@3a44411d
+17:45:01.948 [main] DEBUG o.g.core.machine.ExecutionContext - Execute v_BrowserStarted
+ INFO [main] (LoggerUtility.java:62)- Test case : Passed -Browser Started....!!
+17:45:01.977 [main] DEBUG o.g.core.machine.SimpleMachine - Context: org.graphwalker.LoginTest@3a44411d
+17:45:01.977 [main] DEBUG o.g.core.machine.ExecutionContext - Execute e_EnterBaseURL
+Chrome:
+17:45:07.553 [main] DEBUG o.g.core.machine.SimpleMachine - Context: org.graphwalker.LoginTest@3a44411d
+17:45:07.554 [main] DEBUG o.g.core.machine.ExecutionContext - Execute v_BaseURLAndLogo
+[MBT-SUCCESS] Test case : Passed - Browser Title is displayed....
+ INFO [main] (LoggerUtility.java:62)- Test case : Passed - Browser Title is displayed....
+[MBT-SUCCESS] Test case : Passed - District Logo on login page is displayed....
+ INFO [main] (LoggerUtility.java:62)- Test case : Passed - District Logo on login page is displayed....
+17:45:07.687 [main] DEBUG o.g.core.machine.SimpleMachine - Context: org.graphwalker.LoginTest@3a44411d
+17:45:07.687 [main] DEBUG o.g.core.machine.ExecutionContext - Execute e_ValidUnInvalidPwd
+17:45:10.551 [main] DEBUG o.g.core.machine.SimpleMachine - Context: org.graphwalker.LoginTest@3a44411d
+17:45:10.551 [main] DEBUG o.g.core.machine.ExecutionContext - Execute v_InvalidPassword
+[MBT-SUCCESS] Test case : Passed - Valid Username & Invalid password error message verified successfully....
+ INFO [main] (LoggerUtility.java:62)- Test case : Passed - Valid Username & Invalid password error message verified successfully....
+17:45:10.647 [main] DEBUG o.g.core.machine.SimpleMachine - Context: org.graphwalker.LoginTest@3a44411d
+17:45:10.648 [main] DEBUG o.g.core.machine.ExecutionContext - Execute e_InvalidUnValidPwd
+17:45:13.610 [main] DEBUG o.g.core.machine.SimpleMachine - Context: org.graphwalker.LoginTest@3a44411d
+17:45:13.611 [main] DEBUG o.g.core.machine.ExecutionContext - Execute v_InvalidAuthentication
+[MBT-SUCCESS] Test case : Passed - InValid Username & valid password error message verified successfully....
+ INFO [main] (LoggerUtility.java:62)- Test case : Passed - InValid Username & valid password error message verified successfully....
+17:45:13.704 [main] DEBUG o.g.core.machine.SimpleMachine - Context: org.graphwalker.LoginTest@3a44411d
+17:45:13.704 [main] DEBUG o.g.core.machine.ExecutionContext - Execute e_InvalidUnInValidPwd
+17:45:15.638 [main] DEBUG o.g.core.machine.SimpleMachine - Context: org.graphwalker.LoginTest@3a44411d
+17:45:15.638 [main] DEBUG o.g.core.machine.ExecutionContext - Execute v_InvalidUnInvalidPwd
+[MBT-SUCCESS] Test case : Passed - InValid Username & Invalid password error message verified successfully....
+ INFO [main] (LoggerUtility.java:62)- Test case : Passed - InValid Username & Invalid password error message verified successfully....
+17:45:15.710 [main] DEBUG o.g.core.machine.SimpleMachine - Context: org.graphwalker.LoginTest@3a44411d
+17:45:15.710 [main] DEBUG o.g.core.machine.ExecutionContext - Execute e_ValidUnValidPwd
+17:46:22.438 [main] DEBUG o.g.core.machine.SimpleMachine - Context: org.graphwalker.LoginTest@3a44411d
+17:46:22.438 [main] DEBUG o.g.core.machine.ExecutionContext - Execute v_VerifyLaunchPadAndFlipCards
+[MBT-SUCCESS] Test case : Passed - FlipCards are Verified ....
+ INFO [main] (LoggerUtility.java:62)- Test case : Passed - FlipCards are Verified ....
+17:46:22.518 [main] DEBUG o.g.core.machine.SimpleMachine - Context: org.graphwalker.LoginTest@3a44411d
+17:46:22.518 [main] DEBUG o.g.core.machine.ExecutionContext - Execute e_Logout
+[MBT-SUCCESS] Test case : Passed - LogOut from the application successfully....
+ INFO [main] (LoggerUtility.java:62)- Test case : Passed - LogOut from the application successfully....
+17:46:26.709 [main] DEBUG o.g.core.machine.SimpleMachine - Context: org.graphwalker.LoginTest@3a44411d
+17:46:26.709 [main] DEBUG o.g.core.machine.ExecutionContext - Execute v_LoginPage
+[MBT-SUCCESS] Test case : Passed - UseName field after logout is displayed....
+ INFO [main] (LoggerUtility.java:62)- Test case : Passed - UseName field after logout is displayed....
+17:46:27.224 [main] DEBUG o.g.core.machine.SimpleMachine - Context: org.graphwalker.LoginTest@3a44411d
+17:46:27.225 [main] DEBUG o.g.core.machine.SimpleMachine - Context: org.graphwalker.LoginTest@3a44411d
+17:46:27.225 [main] DEBUG o.g.core.machine.ExecutionContext - Execute v_VersionNumber
+[MBT-SUCCESS] Test case : Passed - Version number on the login page is verified....
+ INFO [main] (LoggerUtility.java:62)- Test case : Passed - Version number on the login page is verified....
+17:46:27.891 [main] DEBUG o.g.core.machine.SimpleMachine - Context: org.graphwalker.LoginTest@3a44411d
+17:46:27.891 [main] DEBUG o.g.core.machine.ExecutionContext - Execute e_ClickForgotPwdLink
+17:46:28.395 [main] DEBUG o.g.core.machine.SimpleMachine - Context: org.graphwalker.LoginTest@3a44411d
+17:46:28.395 [main] DEBUG o.g.core.machine.ExecutionContext - Execute v_ForgotPwdFields
+[MBT-SUCCESS] Test case : Passed - Forgot Password Username field of the login page is verified....
+ INFO [main] (LoggerUtility.java:62)- Test case : Passed - Forgot Password Username field of the login page is verified....
+[MBT-SUCCESS] Test case : Passed - Forgot Password Email field of the login page is verified....
+ INFO [main] (LoggerUtility.java:62)- Test case : Passed - Forgot Password Email field of the login page is verified....
+17:46:28.548 [main] DEBUG o.g.core.machine.SimpleMachine - Context: org.graphwalker.LoginTest@3a44411d
+17:46:28.548 [main] DEBUG o.g.core.machine.ExecutionContext - Execute e_CancelForgotPwd
+17:46:28.935 [main] DEBUG o.g.core.machine.SimpleMachine - Context: org.graphwalker.LoginTest@3a44411d
+17:46:28.936 [main] DEBUG o.g.core.machine.ExecutionContext - Execute v_LoginPageAfterForgotPassword
+[MBT-SUCCESS] Test case : Passed - Verified Username field after cancelling Forgot password pop up cancel....
+ INFO [main] (LoggerUtility.java:62)- Test case : Passed - Verified Username field after cancelling Forgot password pop up cancel....
+17:46:29.006 [main] DEBUG o.g.core.machine.SimpleMachine - Context: org.graphwalker.LoginTest@3a44411d
+17:46:29.006 [main] DEBUG o.g.core.machine.ExecutionContext - Execute e_EnterStudentPortalValidUnValidPwd
+17:46:30.782 [main] DEBUG o.g.core.machine.SimpleMachine - Context: org.graphwalker.LoginTest@3a44411d
+17:46:30.782 [main] DEBUG o.g.core.machine.ExecutionContext - Execute v_StudentPortalLink
+[MBT-SUCCESS] Test case : Passed - Student portal link is verified successfully....
+ INFO [main] (LoggerUtility.java:62)- Test case : Passed - Student portal link is verified successfully....
+17:46:30.863 [main] DEBUG o.g.core.machine.SimpleMachine - Context: org.graphwalker.LoginTest@3a44411d
+17:46:30.863 [main] DEBUG o.g.core.machine.ExecutionContext - Execute e_ClickStudentPortalLink
+17:46:45.091 [main] DEBUG o.g.core.machine.SimpleMachine - Context: org.graphwalker.LoginTest@3a44411d
+17:46:45.091 [main] DEBUG o.g.core.machine.ExecutionContext - Execute v_StudentPortalLoginPage
+[MBT-SUCCESS] Test case : Passed - Student portal Login page is verified successfully....
+ INFO [main] (LoggerUtility.java:62)- Test case : Passed - Student portal Login page is verified successfully....
+17:46:45.169 [main] DEBUG o.g.core.machine.SimpleMachine - Context: org.graphwalker.LoginTest@3a44411d
+17:46:45.169 [main] DEBUG o.g.core.machine.ExecutionContext - Execute e_EnterStudentPortalCredentials
+17:46:46.605 [main] DEBUG o.g.core.machine.SimpleMachine - Context: org.graphwalker.LoginTest@3a44411d
+17:46:46.605 [main] DEBUG o.g.core.machine.ExecutionContext - Execute v_StaffPortalLink
+[MBT-SUCCESS] Test case : Passed - Staff portal link is verified successfully....
+ INFO [main] (LoggerUtility.java:62)- Test case : Passed - Staff portal link is verified successfully....
+17:46:46.686 [main] DEBUG o.g.core.machine.SimpleMachine - Context: org.graphwalker.LoginTest@3a44411d
+17:46:46.686 [main] DEBUG o.g.core.machine.ExecutionContext - Execute e_ClickStaffPortalLink
+17:46:48.130 [main] DEBUG o.g.core.machine.SimpleMachine - Context: org.graphwalker.LoginTest@3a44411d
+17:46:48.130 [main] DEBUG o.g.core.machine.ExecutionContext - Execute v_StaffPortalLoginPage
+[MBT-DEBUGGER] //div[text()='Staff Login'] Unable to find the specified //div[text()='Staff Login'] element.
+[MBT-FAILED-TEST-CASE] Test case : Failed - Failed to verify Staff portal Login page....!!
+ INFO [main] (LoggerUtility.java:62)- Test case : Failed - Failed to verify Staff portal Login page....!!
+===========================================================
+Host Name            : BLR-F9ST473
+User Name            : Sanjay.Patel
+Product Name         : SUITE
+Product Version      : 8.2.0.0
+Date                 : 2021-04-05
+Project Name         : SC-SUITE_Login
+Site Name            : https://suiteqa.schoolcity.com/starsqa/sc/starsqa
+Total TestCases      : 16
+Executed TestCases   : 16(100.00%)
+Passed TestCases     : 15(93.75%)
+Failed TestCases     : 1(6.25%)
+Execution Start Time : 17:45:03
+Execution End Time   : 17:47:19
+Execution time       : 00 : 02 : 19
+===========================================================
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] Result :
+[INFO] 
+[INFO] {
+  "totalFailedNumberOfModels": 0,
+  "totalNotExecutedNumberOfModels": 0,
+  "totalNumberOfUnvisitedVertices": 0,
+  "verticesNotVisited": [],
+  "totalNumberOfModels": 1,
+  "totalCompletedNumberOfModels": 1,
+  "totalNumberOfVisitedEdges": 14,
+  "totalIncompleteNumberOfModels": 0,
+  "edgesNotVisited": [],
+  "vertexCoverage": 100,
+  "totalNumberOfEdges": 14,
+  "totalNumberOfVisitedVertices": 14,
+  "edgeCoverage": 100,
+  "totalNumberOfVertices": 14,
+  "totalNumberOfUnvisitedEdges": 0
+}
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  02:26 min
+[INFO] Finished at: 2021-04-05T17:47:19+05:30
+[INFO] ------------------------------------------------------------------------

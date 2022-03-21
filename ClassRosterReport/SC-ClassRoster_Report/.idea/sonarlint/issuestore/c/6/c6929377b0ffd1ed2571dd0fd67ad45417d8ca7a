@@ -1,0 +1,21 @@
+
+;
+java:S1659"%Declare "subTabs" on a separate line.(–¼Œú
+=
+java:S1659"'Declare "schoolTab" on a separate line.(–¼Œú
+j
+java:S1104"TMake gradeTab a static final constant or non-public and provide accessors if needed.(–¼Œú
+]
+java:S1192_"GDefine a constant instead of duplicating this literal "campus" 5 times.(–™Òï
+k
+java:S1104"UMake schoolTab a static final constant or non-public and provide accessors if needed.(–¼Œú
+_
+java:S1192"IDefine a constant instead of duplicating this literal "district" 6 times.(òÕ…Å
+i
+java:S1104"SMake subTabs a static final constant or non-public and provide accessors if needed.(–¼Œú
+l
+java:S1192™"IDefine a constant instead of duplicating this literal "teacher" 12 times.(Û§úÿÿÿÿ8ñöËÂø/
+l
+java:S1104"VMake teacherTab a static final constant or non-public and provide accessors if needed.(–¼Œú
+<
+java:S1659"&Declare "gradeTab" on a separate line.(–¼Œú
