@@ -9,7 +9,7 @@ public class ClassRosterController {
 
     private static ClassRosterPage classRosterPage=new ClassRosterPage();
 
-    //Verifying Display Of ClassRoster Tab
+    /*Verifying Display Of ClassRoster Tab*/
     public static boolean verifyClassRosterPage()
     {
         return DriverHelper.verifyDisplayByXpath(classRosterPage.getClassRosterTab());
