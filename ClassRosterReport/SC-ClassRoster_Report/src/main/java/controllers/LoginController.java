@@ -13,7 +13,7 @@ public class LoginController {
 
     private static LoginPage loginPage=new LoginPage();
 
-    /*Method to enter Password */
+    /*Method to enter Password*/
     public static void setPassword(String xpath, String text) {
         try {
             JavascriptExecutor executor = (JavascriptExecutor) BrowserInitHelper.getInstance();
@@ -23,7 +23,7 @@ public class LoginController {
         }
     }
 
-    /* Login with valid Username and Password*/
+    /* Login with valid Username and Password  */
     public static void login(String username, String password) {
         try {
             BrowserInitHelper.getMaxWaiter().until(ExpectedConditions.elementToBeClickable(By.xpath(loginPage.getLoginUserName())));
