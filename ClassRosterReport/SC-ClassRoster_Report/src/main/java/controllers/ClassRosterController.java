@@ -20,7 +20,7 @@ public class ClassRosterController {
         return DriverHelper.verifyDisplayByXpath(classRosterPage.getClassRosterTab());
     }
 
-    //Clicking on Class Roster Tab
+    /*Clicking on Class Roster Tab*/
     public static boolean clickClassRosterTab()
     {
         boolean res=false;
@@ -35,13 +35,13 @@ public class ClassRosterController {
         return res;
     }
 
-    //Verifying Filters in class roster tab displaying Or not
+    /*Verifying Filters in class roster tab displaying Or not*/
     public static boolean verifyFilersDisplay()
     {
       return DriverHelper.verificationOfElements(classRosterPage.getBlueFilters());
     }
 
-    //Select Grade and School Filters
+    /*Select Grade and School Filters*/
     public static boolean selectClassRosterFilters() {
         boolean res = false;
         try {
@@ -94,7 +94,7 @@ public class ClassRosterController {
     }
 
 
-    //Verify Table Display Or not
+    /*Verify Table Display Or not*/
     public static boolean verifyTableDisplay()
     {
         DriverHelper.waitUntilLoaderInvisible();
