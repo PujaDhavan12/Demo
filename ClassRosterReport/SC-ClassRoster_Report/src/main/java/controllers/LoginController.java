@@ -36,4 +36,5 @@ public class LoginController {
             ConsoleLogger.DebugLog("Exception Handled for login method");
         }
     }
+
 }

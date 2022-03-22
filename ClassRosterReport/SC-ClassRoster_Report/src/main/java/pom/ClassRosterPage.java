@@ -78,5 +78,7 @@ public class ClassRosterPage {
 
     public String getTeacherFirstGradeSdhc(){return properties.getProperty("FIRST_GRADE_SDHC"); }
 
-
+    public String getTeacherAllGrade() {
+        return properties.getProperty("TEACHER_ALL_GRADES");
+    }
 }

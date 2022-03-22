@@ -1,9 +1,14 @@
 package controllers;
 
+import helpers.BrowserInitHelper;
 import helpers.DriverHelper;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
 import pom.ClassRosterPage;
 import utils.ConsoleLogger;
 import utils.Dynamic;
+
+import java.util.List;
 
 public class ClassRosterController {
 
@@ -37,38 +42,39 @@ public class ClassRosterController {
     }
 
     //Select Grade and School Filters
-    public  static boolean selectClassRosterFilters()
-    {
-        boolean res=false;
-        try{
-             //Click on Grade Filter
+    public static boolean selectClassRosterFilters() {
+        boolean res = false;
+        try {
+            //Click on Grade Filter
             DriverHelper.clickXpath(classRosterPage.getGradeFilters());
-            if(Dynamic.getUserLevel().equalsIgnoreCase("District")) {
+            if (Dynamic.getUserLevel().equalsIgnoreCase("District") || Dynamic.getUserLevel().equalsIgnoreCase("network")) {
                 //Select All Grade
-                 DriverHelper.clickXpath(classRosterPage.getAllGradeFilters());
+                DriverHelper.clickXpath(classRosterPage.getAllGradeFilters());
                 //Click On First Grade from Grade dropdown
                 DriverHelper.clickXpath(classRosterPage.getFirstGrade());
                 //CLick on School filter
                 DriverHelper.clickXpath(classRosterPage.getSchoolFilter());
                 //Click on First School From School Dropdown
-                if(Dynamic.getInstance().equalsIgnoreCase("HISD"))
-                {
+                if (Dynamic.getInstance().equalsIgnoreCase("HISD")) {
                     DriverHelper.clickXpath(classRosterPage.getFirstSchoolHisd());
-                }else {
+                } else {
                     DriverHelper.clickXpath(classRosterPage.getFirstSchool());
                 }
-                //Click on refresh button
-            }else if(Dynamic.getUserLevel().equalsIgnoreCase("Teacher"))
-            {
-                boolean allGrade=DriverHelper.verifyDisplayByXpath(classRosterPage.getAllGradeFilters());
-                if(allGrade) {
+
+            } else if (Dynamic.getUserLevel().equalsIgnoreCase("Teacher")) {
+                //Fetching all grades
+                List<WebElement> allGrades = BrowserInitHelper.getInstance().findElements(By.xpath(classRosterPage.getTeacherAllGrade()));
+                //If Grades more than 1 then click all the select first grade
+                if (allGrades.size() > 1) {
+                    //Click on all grade option
                     DriverHelper.clickXpath(classRosterPage.getAllGradeFilters());
+                    //Click on teacher first grade
                     DriverHelper.clickXpath(classRosterPage.getTeacherFirstGradeSdhc());
-                }else{
+                } else {
+                    //Click on teacher first grade
                     DriverHelper.clickXpath(classRosterPage.getTeacherFirstGrade());
                 }
-            }else if(Dynamic.getUserLevel().equalsIgnoreCase("campus"))
-            {
+            } else if (Dynamic.getUserLevel().equalsIgnoreCase("campus")) {
                 //Select All Grade
                 DriverHelper.clickXpath(classRosterPage.getAllGradeFilters());
                 //Click On First Grade from Grade dropdown
@@ -78,14 +84,15 @@ public class ClassRosterController {
                 //Click on First Teacher
                 DriverHelper.clickXpath(classRosterPage.getFirstTeacher());
             }
+            //Click on refresh button
             DriverHelper.clickXpath(classRosterPage.getRefresh());
-            res=true;
-        }catch(Exception e)
-        {
+            res = true;
+        } catch (Exception e) {
             ConsoleLogger.DebugLog("Exception Handled For Select Filters Method");
         }
         return res;
     }
+
 
     //Verify Table Display Or not
     public static boolean verifyTableDisplay()
