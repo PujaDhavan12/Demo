@@ -101,7 +101,7 @@ public class ClassRosterController {
         return DriverHelper.verifyDisplayByXpath(classRosterPage.getTABLE());
     }
 
-    //Click on FullScreen Button
+    /*Click on FullScreen Button*/
     public static boolean clickFullScreenButton()
     {
         boolean res=false;
@@ -115,14 +115,14 @@ public class ClassRosterController {
         return res;
     }
 
-    //Verifying Full Screen Table Display or not
+    /*Verifying Full Screen Table Display or not*/
     public static boolean verifyFullScreenTable()
     {
         //Verifying Table display after click on full screen button
        boolean res= DriverHelper.verifyDisplayByXpath(classRosterPage.getFullScreenTable());
        return res;
     }
-    //Click Exit Screen Button
+    /*Click Exit Screen Button*/
     public static void clickExitFullScreen()
     {
         try {
